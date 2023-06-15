@@ -1,5 +1,5 @@
 import { SmoothScroll } from './scrollToTop';
-import { BrowserRouter, NavLink } from 'react-router-dom';
+import { HashRouter, NavLink } from 'react-router-dom';
 import { AnimatedRoutes } from './AnimatedRoutes';
 import { useEffect, useState } from 'react';
 
@@ -25,7 +25,7 @@ export function NavBar() {
     }, []);
 
     return (
-        <BrowserRouter>
+        <HashRouter basename='/'>
         <SmoothScroll>
             <div className={`fixed inset-x-0 mx-auto max-w-max top-10 z-10 ${scrollClass}`}>
                 <div className='w-4/5 text-sm md:text-xl lg:text-xl space-x-10 md:space-x-20 lg:space-x-20 text-gray-400 px-12 py-4'>
@@ -39,6 +39,6 @@ export function NavBar() {
             </div>
             <AnimatedRoutes />
         </SmoothScroll>
-      </BrowserRouter>
+      </HashRouter>
     )
 }

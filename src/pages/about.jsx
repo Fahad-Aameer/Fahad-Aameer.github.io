@@ -21,10 +21,16 @@ export function About() {
             
             <div className="items-center mx-10 md:mx-80 lg:mx-80 md:mt-28 lg:mt-28 mb-8">
                 <p className="text-base md:text-xl font-thin text-gray-400 leading-relaxed mb-8">
-                    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Maxime aliquam cumque minima, quis vitae libero, nam obcaecati itaque fugiat quod id error magni omnis quae labore voluptate similique cupiditate at.
+                    Prior to pursuing a career in programming, I completed my studies 
+                    in mechanical engineering. However, I developed a strong interest 
+                    in programming and decided to make a transition into the field. 
+                    During my final year of mechanical engineering, I began self-teaching 
+                    programming and focused on creating various games using the Unity platform.
                 </p>
                 <p className="text-base md:text-xl font-thin text-gray-400 leading-relaxed">
-                    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Maxime aliquam cumque minima, quis vitae libero, nam obcaecati itaque fugiat quod id error magni omnis quae labore voluptate similique cupiditate at.
+                    In addition to programming, I have a genuine passion for continuous learning. 
+                    I am particularly enthusiastic about technological advancements and aspire 
+                    to contribute to their development and implementation.               
                 </p>
             </div>
         </motion.div>
