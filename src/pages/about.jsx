@@ -3,7 +3,7 @@ import { Services } from "../components/services";
 import { motion } from "framer-motion";
 
 export function About() {
-    const imgSrc = "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=8&w=1024&h=1024&q=80";
+    const imgSrc = "/assets/fahad.jpeg";
     const detail = "I'm a Web Developer working in a start-up in Bengaluru, Karnataka";
 
     return (
