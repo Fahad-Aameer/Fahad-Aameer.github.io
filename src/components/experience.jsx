@@ -9,7 +9,7 @@ export function Experience() {
                 with expertise in creating visually appealing and user-friendly websites.
                 I have experience in utilizing programming languages and CMS platforms to
                 deliver effective web solutions.</p>
-                <a href="https://drive.google.com/file/d/1nG9zT2Wi_8eV_3bVTeOYdkIqRlk9MU-t/view?usp=sharing" className="text-sm md:text-base lg:text-base text-center rounded-full bg-indigo-500 px-6 py-3 font-semibold text-gray-50 shadow-sm hover:bg-indigo-400 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-500">Download Resume</a>
+                <a href="https://drive.google.com/file/d/1gJdpcFID0pBSpklxYzeTcKm_ME3hFUe-/view?usp=drive_link" className="text-sm md:text-base lg:text-base text-center rounded-full bg-indigo-500 px-6 py-3 font-semibold text-gray-50 shadow-sm hover:bg-indigo-400 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-500">Download Resume</a>
             </div>
 
             <Portfolio href="https://github.com/Fahad-Aameer/laravel-cms-project-from-laracasts" src="/assets/portfolio-1.png" class="bg-portfolio-1" detail="Laravel" work="CMS"/>

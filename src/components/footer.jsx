@@ -6,7 +6,7 @@ export function Footer() {
                 <div className="space-y-4 md:space-y-6 lg:space-y-6">
                     <h4 className="text-sm md:text-base lg:text-base font-semibold tracking-wide text-gray-50 font-secondary-font">More</h4>
                     <ul className="text-sm md:text-base lg:text-base font-thin tracking-widest text-gray-400 space-y-4 md:space-y-6 lg:space-y-6">
-                        <li className="hover:text-indigo-400"><a href="https://drive.google.com/file/d/1nG9zT2Wi_8eV_3bVTeOYdkIqRlk9MU-t/view?usp=sharing">Read.cv</a></li>
+                        <li className="hover:text-indigo-400"><a href="https://drive.google.com/file/d/1gJdpcFID0pBSpklxYzeTcKm_ME3hFUe-/view?usp=drive_link">Read.cv</a></li>
                         <li className="hover:text-indigo-400"><a href="https://github.com/Fahad-Aameer">Github</a></li>
                         <li className="hover:text-indigo-400"><a href="https://fahadaameer.itch.io/">itch.io</a></li>
                     </ul>
